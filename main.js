@@ -11,6 +11,7 @@ Menu.addEventListener('click', function () {
     hamburgerMenu.style.display = 'block';
 })
 
+// icona chiudere menu
 let Closedmenu = document.querySelector('.fa-times');
 
 // nascondere il menu principale
